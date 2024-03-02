@@ -1,4 +1,4 @@
-export default async function getFullResponseFromAPI(success) {
+export default async function getFullResponseFromAPI(success) { // top most comment was added to test conflict
   return new Promise((resolve, reject) => {
     if (success) {
       const dict = {
