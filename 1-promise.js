@@ -11,3 +11,5 @@ export default async function getFullResponseFromAPI(success) {
     }
   });
 }
+
+// js comment was added
